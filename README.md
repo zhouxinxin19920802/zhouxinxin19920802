@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 一个Anylogic爱好者
 
-一个体系论证、需求论证、复杂系统可靠性与韧性评估研究者
+研究兴趣:体系论证、需求论证、复杂系统可靠性、维修性与韧性评估
