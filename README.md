@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 
 ### 一个机械工程在读博士
 
-### 一个python爱好者
-
-### 一个Anylogic爱好者
+### Skill
+ * python
+ * Anylogic Java
+ * Neo4j Mysql
 
 ### 研究兴趣:体系论证、需求论证、复杂系统可靠性、维修性与韧性评估
 
