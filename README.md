@@ -22,7 +22,9 @@ Here are some ideas to get you started:
  * python
  * Anylogic Java
  * Neo4j Mysql
-
+ * Axure
 ### 研究兴趣:体系论证、需求论证、复杂系统可靠性、维修性与韧性评估
-
+### 追求
+  * 成为一个PPT大神
+  * 成为一个好的researcher
 
