@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![一只可爱的猫咪]([https://example.com/cat.jpg](http://www.81.cn/jpdbfy2019/bqkj/_attachment/2020/08/25/9889428_309c236f8c4920aed9d303.jpg))
 
 ## 一个机械工程在读博士
 
