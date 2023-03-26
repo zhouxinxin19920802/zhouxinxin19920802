@@ -26,7 +26,7 @@ Here are some ideas to get you started:
  * Delmia,Jack(虚拟维修）
  * ...
 ### 研究兴趣:体系论证、需求论证、复杂系统可靠性、维修性与韧性评估
-### 目前在读的书籍
+### 近期感兴趣的书籍
  * python工匠
 ### 追求
   * 成为一个PPT大神
