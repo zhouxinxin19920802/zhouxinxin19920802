@@ -29,6 +29,5 @@ Here are some ideas to get you started:
 ### 近期感兴趣的书籍
  * python工匠
 ### 追求
-  * 成为一个PPT大神
   * 成为一个好的researcher
 
